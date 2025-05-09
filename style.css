@@ -1,0 +1,35 @@
+.jumbotron {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #140609;
+}
+
+.custom-navbar {
+  background-color: #b66878 !important;
+}
+
+.pink-hero-bg {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #efc3ca;
+}
+
+#about {
+  padding-top: 4rem;
+}
+
+#project {
+  padding-top: 4rem;
+  background-color: #140609;
+}
+
+#contact {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+footer {
+  padding-top: 2rem;
+  background-color: #140609;
+}
+
