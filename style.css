@@ -1,7 +1,7 @@
 .jumbotron {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #140609;
+  background-color: #ffffff;
 }
 
 .custom-navbar {
@@ -20,7 +20,7 @@
 
 #project {
   padding-top: 4rem;
-  background-color: #140609;
+  background-color: #ffffff;
 }
 
 #contact {
@@ -30,6 +30,6 @@
 
 footer {
   padding-top: 2rem;
-  background-color: #140609;
+  background-color: #b66878;
 }
 
